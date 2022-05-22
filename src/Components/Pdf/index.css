@@ -1,0 +1,10 @@
+#pdf-container{
+    width: 75%;
+    max-height: 600px;
+    overflow: auto;
+    margin: 0 auto;
+}
+.pdf-wrap{
+    margin-bottom: 10px;
+}
+
